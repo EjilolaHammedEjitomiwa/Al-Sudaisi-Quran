@@ -14,7 +14,7 @@ object Constants {
     const val myPlaystoreLink = "my_playstore_link"
     const val supportMe = "support_me_link"
     const val url = "url"
-    const val fuckingID = "208846624"
+    const val fuckingID = "209664535"
     const val videoRecitation = "video_recitations"
     const val views = "views"
     const val fromYoutube = "from_youtube"

@@ -39,7 +39,7 @@ class HomeActivity : AppCompatActivity(),ConnectivityReciever.ConnectivityReceiv
     private var isPermissionGranted = false
     private var notificationTitle: String? = null
     private var notificationBody: String? = null
-    private var appVersion: Int = 2
+    private var appVersion: Int = 3
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -182,7 +182,6 @@ class HomeActivity : AppCompatActivity(),ConnectivityReciever.ConnectivityReceiv
         StartAppSDK.init(this, Constants.fuckingID, true)
         StartAppAd.disableSplash()
         StartAppSDK.setUserConsent (this, "pas", System.currentTimeMillis(), true)
-        StartAppSDK.setTestAdsEnabled(true)
     }
     private fun checkAppVersion() {
         try {
@@ -309,7 +308,6 @@ class HomeActivity : AppCompatActivity(),ConnectivityReciever.ConnectivityReceiv
             } catch (e: Exception) { }
         }
     }
-
     private fun createDummyAcount() {
         if (Utils.currentUser() == null) {
             try {
@@ -347,7 +345,7 @@ class HomeActivity : AppCompatActivity(),ConnectivityReciever.ConnectivityReceiv
             updateToken(FirebaseInstanceId.getInstance().token)
             enableAdminMenuItem()
             checkAppVersion()
-            Utils.databaseRef().child(Constants.admin).child(Utils.currentUserID()!!).setValue(true)
+            //Utils.databaseRef().child(Constants.admin).child(Utils.currentUserID()!!).setValue(true)
             return null
         }
     }
