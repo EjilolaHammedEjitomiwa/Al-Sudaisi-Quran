@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "412327015886",
+    "firebase_url": "https://sudaisi-quran.firebaseio.com",
+    "project_id": "sudaisi-quran",
+    "storage_bucket": "sudaisi-quran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412327015886:android:dda3e573174e43b5dca79f",
+        "android_client_info": {
+          "package_name": "com.geodeveloper.sudaisiquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412327015886-q6i4ftarbensuact8agdsl3ac7fq9v75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4PHIzp8g49Mh1QmwVWNspPlypWEHUu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412327015886-q6i4ftarbensuact8agdsl3ac7fq9v75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raadal Kurdi Quran</string>
+    <string name="offline_downloads">Офлайн-загрузки</string>
+    <string name="read_quran_arabic">Читать Коран (арабский)</string>
+    <string name="read_quran_english">Читать Коран (английский)</string>
+    <string name="videos">Ролики</string>
+    <string name="rate_app">Оценить приложение</string>
+    <string name="more_apps">Больше приложений</string>
+    <string name="about_me">Обо мне</string>
+    <string name="other_reciters">Другие чтецы</string>
+    <string name="downloaded_surahs">Скачанные суры</string>
+    <string name="the_holy_quran">Священный Коран</string>
+    <string name="about_me_text">Я Эджилола Ахмад Эджитомива, разработчик Android и студент. Вы любите это приложение и готовы оказать поддержку?</string>
+    <string name="more_reciters">Больше чтецов</string>
+    <string name="rate_us_text">Вам нравится это приложение? Пожалуйста, оцените нас</string>
+    <string name="rate_this_app">Оцени это приложение</string>
+    <string name="cancel">Отмена</string>
+</resources>

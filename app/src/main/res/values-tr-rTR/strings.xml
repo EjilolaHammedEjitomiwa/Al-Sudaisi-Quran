@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raadal Kurdi Quran</string>
+    <string name="offline_downloads">Çevrimdışı indirmeler</string>
+    <string name="read_quran_arabic">Kuran oku (arapça)</string>
+    <string name="read_quran_english">Kuran oku (İngilizce)</string>
+    <string name="videos">Videolar</string>
+    <string name="rate_app">Rate App</string>
+    <string name="more_apps">Daha fazla uygulama</string>
+    <string name="about_me">Benim hakkımda</string>
+    <string name="other_reciters">Diğer Reciters</string>
+    <string name="downloaded_surahs">İndirilen Sureler</string>
+    <string name="the_holy_quran">Kutsal Kuran</string>
+    <string name="about_me_text">Ben bir Android geliştiricisi ve lisans öğrencisi olan Ejilola Ahmad Ejitomiwa. Bu uygulamayı seviyor musunuz ve destek vermeye istekli misiniz?</string>
+    <string name="more_reciters">Daha fazla okuyucular</string>
+    <string name="rate_us_text">Bu uygulamayı seviyor musun? Lütfen bizi değerlendirin</string>
+    <string name="rate_this_app">Bu uygulamayı oyla</string>
+    <string name="cancel">İptal etmek</string>
+</resources>

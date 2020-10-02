@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raadal Kurdi Quran</string>
+    <string name="more_reciters">Boshqa reciters</string>
+    <string name="offline_downloads">Oflayn yuklab olish</string>
+    <string name="read_quran_arabic">Qur\'onni o\'qing (arabcha)</string>
+    <string name="read_quran_english">Qur\'onni o\'qing (Ingliz tili)</string>
+    <string name="videos">Videolar</string>
+    <string name="rate_app">Ilovani baholash</string>
+    <string name="more_apps">Boshqa ilovalar</string>
+    <string name="about_me">Men haqimda</string>
+    <string name="other_reciters">Boshqa qorilar</string>
+    <string name="downloaded_surahs">Yuklangan suralar</string>
+    <string name="the_holy_quran">Qur\'oni karim</string>
+    <string name="about_me_text">Men Ejilola Ahmad Ejitomiwa, Android ishlab chiqaruvchisi va bakalavriat. Siz ushbu dasturni yaxshi ko\'rasizmi va qo\'llab-quvvatlashga tayyormisiz?</string>
+    <string name="rate_us_text">Ushbu dastur sizga yoqadimi? Iltimos, bizga baho bering</string>
+    <string name="rate_this_app">Ushbu ilovani baholang</string>
+    <string name="cancel">Bekor qilish</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raadal Kurdi Quran</string>
+    <string name="offline_downloads">Download offline</string>
+    <string name="read_quran_arabic">Baca Quran (Arab)</string>
+    <string name="read_quran_english">Baca Quran (Inggris)</string>
+    <string name="videos">Video</string>
+    <string name="rate_app">Beri Nilai Aplikasi</string>
+    <string name="more_apps">Aplikasi tambahan lainnya</string>
+    <string name="about_me">Tentang saya</string>
+    <string name="other_reciters">Qari Lainnya</string>
+    <string name="downloaded_surahs">Surah yang diunduh</string>
+    <string name="the_holy_quran">Kitab suci Al-Quran</string>
+    <string name="about_me_text">Saya Ejilola Ahmad Ejitomiwa, seorang pengembang dan sarjana Android. Apakah Anda menyukai aplikasi ini dan bersedia memberikan dukungan?</string>
+    <string name="more_reciters">Lebih banyak qari</string>
+    <string name="rate_us_text">Apakah Anda menyukai aplikasi ini? Tolong beri kami nilai</string>
+    <string name="rate_this_app">Nilai aplikasi ini</string>
+    <string name="cancel">Membatalkan</string>
+</resources>

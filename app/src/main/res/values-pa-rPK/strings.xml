@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raadal Kurdi Quran</string>
+    <string name="offline_downloads">Lineਫਲਾਈਨ ਡਾਉਨਲੋਡਸ</string>
+    <string name="read_quran_arabic">ਕੁਰਾਨ ਪੜ੍ਹੋ (ਅਰਬੀ)</string>
+    <string name="read_quran_english">ਕੁਰਾਨ ਪੜ੍ਹੋ (ਅੰਗਰੇਜ਼ੀ)</string>
+    <string name="videos">ਵੀਡੀਓ</string>
+    <string name="rate_app">ਰੇਟ ਐਪ</string>
+    <string name="more_apps">ਹੋਰ ਐਪਸ</string>
+    <string name="about_me">ਮੇਰੇ ਬਾਰੇ ਵਿੱਚ</string>
+    <string name="other_reciters">ਹੋਰ ਪਾਠਕ</string>
+    <string name="downloaded_surahs">ਡਾਉਨਲੋਡ ਕੀਤੀਆਂ ਸੁਰਾਂ</string>
+    <string name="the_holy_quran">ਪਵਿੱਤਰ ਕੁਰਾਨ</string>
+    <string name="about_me_text">ਮੈਂ ਈਜੀਲੋਲਾ ਅਹਿਮਦ ਐਜੀਟੋਮੀਵਾ, ਇੱਕ ਐਂਡਰਾਇਡ ਡਿਵੈਲਪਰ ਅਤੇ ਅੰਡਰ ਗ੍ਰੈਜੂਏਟ ਹਾਂ. ਕੀ ਤੁਸੀਂ ਇਸ ਐਪ ਨੂੰ ਪਸੰਦ ਕਰਦੇ ਹੋ ਅਤੇ ਸਹਾਇਤਾ ਦੇਣ ਲਈ ਤਿਆਰ ਹੋ?</string>
+    <string name="more_reciters">ਹੋਰ ਪਾਠਕ</string>
+    <string name="rate_us_text">ਕੀ ਤੁਹਾਨੂੰ ਇਹ ਐਪ ਪਸੰਦ ਹੈ? ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਦਰਜਾ ਦਿਓ</string>
+    <string name="rate_this_app">ਇਸ ਐਪ ਨੂੰ ਦਰਜਾ ਦਿਓ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+</resources>

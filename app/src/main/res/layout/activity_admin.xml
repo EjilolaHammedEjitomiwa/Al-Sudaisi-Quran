@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Admin.AdminActivity">
+
+    <TextView
+        android:id="@+id/admin_totalUser"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/white"
+        android:text="Total User"
+        android:padding="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/admin_addNewReciter"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/white"
+        android:text="Add New Reciter"
+        android:padding="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/admin_sendNotificationToUsers"
+        android:layout_width="match_parent"
+        android:background="@color/colorPrimary"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/white"
+        android:text="Send notification"
+        android:padding="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/admin_addVideo"
+        android:layout_width="match_parent"
+       android:background="@color/colorPrimary"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/white"
+        android:text="Add Video Recitation"
+        android:padding="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

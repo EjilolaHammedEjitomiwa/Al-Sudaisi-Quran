@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Abdulrahman Al Sudaisi Quran</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="offline_downloads">Offline downloads</string>
+    <string name="read_quran_arabic">Read Quran (arabic)</string>
+    <string name="read_quran_english">Read Quran (English)</string>
+    <string name="videos">Videos</string>
+    <string name="rate_app">Rate App</string>
+    <string name="more_apps">More apps</string>
+    <string name="about_me">About me</string>
+    <string name="admin">Admin</string>
+    <string name="other_reciters">Other Reciters</string>
+    <string name="downloaded_surahs">Downloaded Surahs</string>
+    <string name="the_holy_quran">The Holy Quran</string>
+    <string name="about_me_text">I am Ejilola Ahmad Ejitomiwa, an Android developer and undergraduate. Do you love this app and willing to give support in other to build more useful content?</string>
+    <string name="more_reciters">More reciters</string>
+    <string name="rate_us_text">Do you love this app? Please rate us</string>
+    <string name="rate_this_app">Rate this app</string>
+    <string name="cancel">Cancel</string>
+    <string name="pleaseBeConnectedToInternet">please be connected to internet</string>
+    <string name="weHaveNewVersion">We have new version of this app, will you like to update?</string>
+    <string name="updateApp">Update</string>
+    <string name="buffering">buffering</string>
+    <string name="limitReached">limit reached</string>
+    <string name="firstPage">First page</string>
+    <string name="lastPage">Last page</string>
+</resources>
