@@ -2,12 +2,14 @@ package com.geodeveloper.raadal_al_kurdi.Adapter
 
 import android.content.Context
 import android.content.Intent
+import android.net.Uri
 import android.view.*
 import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.annotation.NonNull
 import androidx.recyclerview.widget.RecyclerView
+import com.blogspot.atifsoftwares.animatoolib.Animatoo
 import com.bumptech.glide.Glide
 import com.developer.kalert.KAlertDialog
 import com.geodeveloper.raadal_al_kurdi.Constants
@@ -43,9 +45,9 @@ class NewReciterAdapter(val context: Context, val surahList: ArrayList<NewRecite
 
         holder.image.setOnClickListener {
             if(item.link != ""){
-                val intent = Intent(context, WebActivity::class.java)
-                intent.putExtra(Constants.url,item.link)
-                context.startActivity(intent)
+                val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse(item.link))
+                context.startActivity(browserIntent)
+                Animatoo.animateFade(context)
             }
         }
 

@@ -130,8 +130,7 @@ class AddNewReciter : AppCompatActivity() {
                                 override fun onDataChange(p0: DataSnapshot) {
                                     if (p0.exists()) {
                                         for (snapshot in p0.children){
-                                            val user = snapshot.getValue(UsersModel::class.java)
-                                            sendNotification(user!!.uid,"Reciter: ",name)
+                                            sendNotification(snapshot.key.toString(),"Reciter: ",name)
                                         }
                                         if(progress!!.isShowing){
                                             progress!!.dismiss()
