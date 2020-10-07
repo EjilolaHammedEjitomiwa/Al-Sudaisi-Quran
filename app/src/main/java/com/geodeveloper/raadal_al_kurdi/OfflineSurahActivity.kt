@@ -26,8 +26,6 @@ class OfflineSurahActivity : AppCompatActivity() {
         adapter = SurahListAdapter(this, imageList,true)
         offline_activity_recyclerView.setHasFixedSize(true)
         val layoutManager = LinearLayoutManager(this)
-        layoutManager.stackFromEnd = true
-        layoutManager.reverseLayout = true
         offline_activity_recyclerView.layoutManager = layoutManager
         offline_activity_recyclerView.adapter = adapter
 

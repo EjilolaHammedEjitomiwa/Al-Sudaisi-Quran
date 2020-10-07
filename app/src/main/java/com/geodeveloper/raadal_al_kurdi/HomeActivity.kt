@@ -39,7 +39,7 @@ class HomeActivity : AppCompatActivity(),ConnectivityReciever.ConnectivityReceiv
     private var isPermissionGranted = false
     private var notificationTitle: String? = null
     private var notificationBody: String? = null
-    private var appVersion: Int = 4
+    private var appVersion: Int = 5
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -345,7 +345,6 @@ class HomeActivity : AppCompatActivity(),ConnectivityReciever.ConnectivityReceiv
             updateToken(FirebaseInstanceId.getInstance().token)
             enableAdminMenuItem()
             checkAppVersion()
-            Utils.databaseRef().child(Constants.admin).child(Utils.currentUserID()!!).setValue(true)
             return null
         }
     }

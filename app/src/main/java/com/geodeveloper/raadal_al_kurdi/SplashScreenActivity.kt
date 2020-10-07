@@ -8,7 +8,7 @@ import com.blogspot.atifsoftwares.animatoolib.Animatoo
 
 class SplashScreenActivity : AppCompatActivity() {
     private var mDelayHandler: Handler? = null
-    private val SPLASH_DELAY: Long =600
+    private val SPLASH_DELAY: Long =5000
     private val mRunnable: Runnable = Runnable {
         if (!isFinishing) {
             startActivity(Intent(applicationContext, HomeActivity::class.java))

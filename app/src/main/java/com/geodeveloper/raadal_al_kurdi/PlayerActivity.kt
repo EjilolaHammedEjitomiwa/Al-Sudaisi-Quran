@@ -42,7 +42,6 @@ class PlayerActivity : AppCompatActivity(), OnInvalidPathListener, JcPlayerManag
                     val file: File = element
                     image = SurahListModel()
                     jcAudios.add(JcAudio.createFromFilePath(file.name, file.path));
-                    jcAudios.reverse()
                 }
             }
         } else {
