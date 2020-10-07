@@ -1,5 +1,8 @@
 # Sheikh Abdulrahman Al Ossi Quran
-# ![Screenshot](../master/images/1.png)
-# ![Screenshot](../master/images/2.png)
-# ![Screenshot](../master/images/3.png)
-# ![Screenshot](../master/images/4.png)
+![Screenshot](../master/images/main.png)
+
+### This is a complete Quran recitation by Shiekh Abdulrahman Al Sudaisi
+
+[![](../master/images/playstore.png)](https://play.google.com/store/apps/details?id=com.geodeveloper.sudaisiquran)
+
+### Please give star if you like it
