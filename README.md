@@ -1,4 +1,4 @@
-# Sheikh Abdulrahman Al Ossi Quran
+# Shiekh Abdulrahman Al Sudaisi
 ![Screenshot](../master/images/main.png)
 
 ### This is a complete Quran recitation by Shiekh Abdulrahman Al Sudaisi
